@@ -7,5 +7,13 @@ https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope
 https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-02.jpg
 https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-08.jpg
 
+https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-01-barcode.jpg
+https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-02-barcode.jpg
+https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-08-barcode.jpg
 
-webApp: https://xdata-uat.swivel.one/mail-room-ocr/main
+
+webApp: 
+- url: https://xdata-uat.swivel.one/mail-room-ocr/main
+- settings: 
+  https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/demoWebApp.json
+
