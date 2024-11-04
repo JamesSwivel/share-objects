@@ -1,0 +1,41 @@
+[
+  {
+    "status": "OK",
+    "barcodeId": "00001",
+    "createdBy": "user1",
+    "imgSrc": "https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-01.jpg",
+    "recipient": "MS CHOW LAI KUEN SANDY",
+    "companyCode": "c001",
+    "address1": "UNIT 310 3/F BUILDING 16W",
+    "address2": "16 SCIENCE PARK WEST AVENUE",
+    "address3": "HONG KONG SCIENCE PARK,",
+    "address4": "SHATIN NT",
+    "address5": "SCL/STA45"
+  },
+  {
+    "status": "failed",
+    "barcodeId": "00002",
+    "createdBy": "user1",
+    "imgSrc": "https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-02.jpg",
+    "recipient": "MISS CHOW LAI KUEN",
+    "companyCode": "c001",
+    "address1": "RM 310, 3/F, BUILDING 16W",
+    "address2": "16 SCIENCE PARK WEST AVENUE",
+    "address3": "HONG KONG SCIENCE PARK",
+    "address4": "SHATIN NT",
+    "address5": ""
+  },
+  {
+    "status": "OK",
+    "barcodeId": "00003",
+    "createdBy": "user2",
+    "imgSrc": "https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-08.jpg",
+    "recipient": "Sammy C Y Chan",
+    "companyCode": "c003",
+    "address1": "Logistics System Ltd",
+    "address2": "Unit 310, 3/",
+    "address3": "16W, Hong Kong Science Park",
+    "address4": "16 Science Park West Avenue",
+    "address5": "Tai Po, N.T."
+  }
+]

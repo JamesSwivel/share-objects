@@ -1,0 +1,11 @@
+https://github.com/JamesSwivel/share-objects/blob/main/images/envelope/envelope-01.jpg
+https://github.com/JamesSwivel/share-objects/blob/main/images/envelope/envelope-02.jpg
+https://github.com/JamesSwivel/share-objects/blob/main/images/envelope/envelope-08.jpg
+
+
+https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-01.jpg
+https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-02.jpg
+https://raw.githubusercontent.com/JamesSwivel/share-objects/main/images/envelope/envelope-08.jpg
+
+
+webApp: https://xdata-uat.swivel.one/mail-room-ocr/main
