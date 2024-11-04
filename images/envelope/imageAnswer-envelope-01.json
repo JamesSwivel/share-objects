@@ -1,0 +1,15 @@
+{
+    "envelope": {
+        "recipient": {
+            "name": "MS CHOW LAI KUEN SANDY"
+        },
+        "address": {
+            "line1": "UNIT 310 3/F BUILDING 16W",
+            "line2": "16 SCIENCE PARK WEST AVENUE",
+            "line3": "HONG KONG SCIENCE PARK,",
+            "line4": "SHATIN NT",
+            "zip": "SCL/STA45"
+        },
+        "fullText": "In the event of non-delivery, please return to\nG.P.O. Box 11832, Hong Kong\n\nPrivate and Confidential - To be opened by addressee only\n\nMS CHOW LAI KUEN SANDY\nUNIT 310 3/F BUILDING 16W\n16 SCIENCE PARK WEST AVENUE\nHONG KONG SCIENCE PARK,\nSHATIN NT\nSCL/STA45"
+    }
+}

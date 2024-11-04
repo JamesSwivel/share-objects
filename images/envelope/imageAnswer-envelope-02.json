@@ -1,0 +1,14 @@
+{
+    "envelope": {
+        "recipient": {
+            "name": "MISS CHOW LAI KUEN"
+        },
+        "address": {
+            "line1": "RM 310, 3/F, BUILDING 16W",
+            "line2": "16 SCIENCE PARK WEST AVENUE",
+            "line3": "HONG KONG SCIENCE PARK",
+            "line4": "SHATIN NT"
+        },
+        "fullText": "MISS CHOW LAI KUEN\nRM 310, 3/F, BUILDING 16W\n16 SCIENCE PARK WEST AVENUE\nHONG KONG SCIENCE PARK\nSHATIN NT"
+    }
+}

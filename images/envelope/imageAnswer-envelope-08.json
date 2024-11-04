@@ -1,0 +1,15 @@
+{
+    "envelope": {
+        "recipient": {
+            "name": "Sammy C Y Chan"
+        },
+        "address": {
+            "line1": "Logistics System Ltd",
+            "line2": "Unit 310, 3/",
+            "line3": "16W, Hong Kong Science Park",
+            "line4": "16 Science Park West Avenue",
+            "zip": "Tai Po, N.T."
+        },
+        "fullText": "Sammy C Y Chan\nLogistics System Ltd\nUnit 310, 3/\n16W, Hong Kong Science Park\n16 Science Park West Avenue\nTai Po, N.T."
+    }
+}
